@@ -241,6 +241,8 @@ img {
   height: 555px;
 }
 
+
+
 .big {
   margin-top: 50px;
   padding: 80px 0;
@@ -603,6 +605,10 @@ img {
     display: block;
     position: relative;
     z-index: 99;
+  }
+
+  .reclama-section img{
+    width: 100%;
   }
 
   .site-menu__btn {
